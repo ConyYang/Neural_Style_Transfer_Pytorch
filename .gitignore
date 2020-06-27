@@ -2,3 +2,6 @@
 .DS_Store
 .idea/
 venv/
+LossFunction/__pycache__/
+imgProcess/__pycache__/
+pytorchProcess/__pycache__/
