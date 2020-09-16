@@ -43,4 +43,4 @@ def plot_handpaint(inputImg, outputImg):
     im.save(outputImg)
 
 if __name__ == '__main__':
-    plot_handpaint(inputImg="chongqing.jpg",outputImg="newimg.jpg")
+    plot_handpaint(inputImg="chongqing.jpeg", outputImg="newimg2.jpg")
