@@ -1,0 +1,9 @@
+A hand painted graph has such characteristics:
+    Black and white gray;
+    border lines are heavier;
+    the same or similar colors tend to be white;
+    slight light source effect
+Core principle: Use the gradient value between the pixels and the virtual depth value to reconstruct the image,
+and simulate the degree of human vision simulation according to the gray level change.
+
+A graph is a 2D matrix contains elements. Each element is a RGB value.
