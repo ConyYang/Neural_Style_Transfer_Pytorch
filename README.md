@@ -35,10 +35,10 @@ After change the result is like this. We also scale the photo a bit.
 ![image](BackgroundColorChange/result.jpg)<br/>
 
 # Add a flag Sticker to Profile Photo
-We have a profile photo. <br/>
-![profile](profilePhoto/photo.jpg)
-And we prepare a sticker with small flag. <br/>
-![flag](profilePhoto/flag.png)
+We have a profile photo. 
+![profile](profilePhoto/photo.jpg)<br/>
+And we prepare a sticker with small flag.
+![flag](profilePhoto/flag.png)<br/>
 Run program the program profilePhotoAddFlag.py.
 
 ```user
@@ -49,7 +49,6 @@ Hello from the pygame community. https://www.pygame.org/contribute.html
 Enter the size of your profile photo 400
 ```
 Note the size of profile photo is 400.
-
 Here is the result.
-![result](profilePhoto/new.png)
+![newresult](profilePhoto/new.png)<br/>
 
